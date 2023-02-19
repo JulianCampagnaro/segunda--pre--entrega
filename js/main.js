@@ -113,7 +113,3 @@ if (dec == 1) {
     console.log (vehiculosDevolverHoy(alquilerUno));
     console.log(vehiculosDevolverHoy(alquilerDos));
 }
-
-
-
-
